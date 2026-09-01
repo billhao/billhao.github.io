@@ -20,4 +20,5 @@ header_pages:
 exclude:
   - drafts
   - README.md
+  - CLAUDE.md
   - .gitignore
