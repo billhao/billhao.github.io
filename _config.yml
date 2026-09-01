@@ -1,0 +1,24 @@
+title: hao
+description: Notes and writing
+author: hao
+email: billhao@gmail.com
+url: https://billhao.github.io
+
+theme: minima
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  date_format: "%Y-%m-%d"
+
+header_pages:
+  - tags.md
+  - about.md
+
+exclude:
+  - drafts
+  - README.md
+  - .gitignore
